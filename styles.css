@@ -52,13 +52,13 @@ div:hover{
     display: flex;
     justify-content: center;
     align-items: center;
+    justify-content:space-evenly;
 }
 
 .contato{
     margin-top: auto;
     margin-bottom: auto;
-    margin-left: auto;
-
+    
 }
 
 .logo {
